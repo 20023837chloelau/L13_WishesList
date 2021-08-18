@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">WishesList</string>
+    <string name="introP1">Welcome!</string>
+    <string name="introP2">This app serves as a wish list, where you can freely update, add or even delete unwanted items.
+                        To save time on researching for the cheapest price of the item that you wish to have, the location of the source can also be added when adding in a new item.
+                        \n\nA rating bar is also implemented, hence you can rate the item on how much you want it and you can also filter for items with 4 to 5 ratings. This will help you save time as you would not need to scroll all the way down to find your most wanted items.
+    </string>
+    <string name="welcomBtn">Lets get started!</string>
+    <string name="title">My Wish List</string>
+
+    <string name="guide"> Guide:</string>
+    <string name="guide2">Click on the + button to add an item, or Click on an specific item to either update or delete.</string>
+    <string name="guide3">You can also filter items with 5 stars only by clicking the "Get items with 5 stars" button.</string>
+
+    <string name="small">Small</string>
+    <string name="normal">Normal</string>
+    <string name="large">Large</string>
+
+    <string name="filter">Filter: </string>
+    <string name="filterBtn">Get all items with 5 stars </string>
+    <string name="add">+</string>
+
+    <string name="name">Name of item: </string>
+    <string name="location">Location: </string>
+    <string name="price">Price: </string>
+    <string name="rating">How much do you want it?</string>
+
+    <string name="id">Item ID: </string>
+    <string name="nameHint">Enter name of item </string>
+    <string name="locaHint">Enter source of cheapest price found </string>
+    <string name="priceHint">Enter price of item </string>
+
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="btnInsert">Add new item</string>
+    <string name="btnShowList">Show list</string>
+</resources>

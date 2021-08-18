@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Small"
+        android:orderInCategory="100"
+        android:title="@string/small"/>
+
+    <item
+        android:id="@+id/Normal"
+        android:orderInCategory="101"
+        android:title="@string/normal"/>
+
+    <item
+        android:id="@+id/Large"
+        android:orderInCategory="102"
+        android:title="@string/large"/>
+
+</menu>
